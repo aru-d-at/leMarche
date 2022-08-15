@@ -16,5 +16,5 @@ Vehicle used to learn TypeScript
      ─ react-native@0.64.3
      ─ typescript@4.3.5
 
-![alt text](https://github.com/XeVile/leMarche/blob/main/home.jpg?raw=true)
-![alt text](https://github.com/XeVile/leMarche/blob/main/product.jpg?raw=true)
+![Home](https://github.com/XeVile/leMarche/blob/main/home.png?raw=true)
+![Product](https://github.com/XeVile/leMarche/blob/main/product.png?raw=true)
